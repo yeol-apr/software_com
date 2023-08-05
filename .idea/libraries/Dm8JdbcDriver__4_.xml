@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Dm8JdbcDriver (4)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/dameng_war_exploded/WEB-INF/lib/Dm8JdbcDriver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

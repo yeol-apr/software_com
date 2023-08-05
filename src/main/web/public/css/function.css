@@ -1,0 +1,54 @@
+.box {display: inline-block;width: 200px;height: 40px;border: 3px dashed gray;border-radius: 10px;margin: 10px;cursor: pointer;text-align: center;}
+.box:hover {border-color: #ea868f;}
+body{background-color: #d3dafa;}
+.one{position: fixed;top: 60px;left: 390Px;font-size: larger}
+.two{position: fixed;left: 25%;top: 85px;border: 0;}
+.three{position: fixed;left: 25%;top: 125px;border: 0;}
+.four{position: fixed;left: 25%;top: 165px;border: 0;}
+.five{position: fixed;left: 750px;top: 110Px;}
+.five_one{width: 150Px;height: 70Px;font-size: larger;border-radius: 37px;
+    background: #1de276;
+    }
+.six{position: fixed;left: 400px;top: 230Px}
+.seven{position: fixed;left: 350px;top: 250px}
+.eight{position: fixed;top: 310px;left: 350px;width: 1000px;text-align: center}
+.btn {
+    border: none;
+    border-radius: 20px;
+    background-color: #f2f2f2;
+    color: #333;
+    padding: 5px 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: orange;
+    color: #fff;
+}
+.botn {
+    border: none;
+    border-radius: 20px;
+    background-color: #f2f2f2;
+    color: #333;
+    padding: 5px 15px;
+    cursor: pointer;
+}
+.botn:hover {
+    background-color: #5FB878;
+    color: #fff;
+}
+.govern_one{font-size: larger;position: fixed;left: 400px;top: 50Px;}
+.govern_two{position: fixed;left: 500px;top: 50Px;}
+.govern_t{position: fixed;left: 880px;top: 45Px;}
+.govern_three{position: fixed;left: 400px;top: 100Px;font-size: larger}
+.govern_four{position: fixed;left: 490px;top: 98Px;}
+.govern_five{position: fixed;left: 600px;top: 98Px;}
+.govern_six{position: fixed;left: 410Px;top: 150px;}
+.govern_seven{text-align: center}
+.govern_eight{position: fixed;left: 660px;}
+.govern_nine{width: 300px;background-color: #f1aeb5;text-align: center}
+.govern_ten{width: 300px;background-color: #f2e7c3;text-align: center}
+.govern_zone{width: 150px;background-color: #bfe2e9;text-align: center}
+.govern_eleven{position: fixed;top: 200px;left: 480px}
+.share_one{font-size: larger;position: fixed;top: 95px;left: 360px}
+.share_two{position: fixed;top: 135px;left: 360px;}

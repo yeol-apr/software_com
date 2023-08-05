@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dmetl-common-api-5.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/dameng_war_exploded/WEB-INF/lib/dmetl-common-api-5.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

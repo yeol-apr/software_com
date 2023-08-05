@@ -1,0 +1,84 @@
+.tupian{position: fixed;left: 35px;top: 40px;}
+.jieshao{font-size:20px;position: fixed;left: 90px;top: 60px;}
+
+* {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:  #d3dafa;
+}
+.shell {
+    width: 280px;
+    background-color: #8a98c9;
+    position: absolute;
+    left: 0;
+    height: 100%;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.buttons {
+    margin: 60px 0;
+    color: #fff;
+}
+.li {
+    letter-spacing: 2px;
+    font: 600 17px "";
+    padding: 16px 52px;
+    transition: 0.3s;
+}
+.li::after {
+    content: "";
+    position: absolute;
+    left: 20px;
+    margin-top: -22px;
+    display: block;
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 50%;
+}
+.buttons > li:hover {
+    background-color: #beb5df;
+}
+
+.li ul {
+    width: 0;
+    height: 633px;
+    padding: 60px 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    overflow: hidden;
+    background-color: #59699b;
+    transition: 0.3s;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.li ul li {
+    padding: 16px 24px;
+    transition: 0.3s;
+}
+
+.li:hover ul {
+    width: 228px;
+}
+.li ul li:hover {
+    background-color: #828eb9;
+}
+
+.line {
+    width: 75%;
+    margin: 20px 25px
+}

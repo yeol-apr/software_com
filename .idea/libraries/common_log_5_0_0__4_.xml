@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="common-log-5.0.0 (4)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/web/WEB-INF/lib/common-log-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/web/WEB-INF/lib/common-util-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/web/WEB-INF/lib/Dm8JdbcDriver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/web/WEB-INF/lib/dmetl-common-api-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/web/WEB-INF/lib/dmetl-rest-client-5.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="common-log-5.0.0 (6)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/dameng_war_exploded/WEB-INF/lib/common-log-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/dameng_war_exploded/WEB-INF/lib/common-util-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/dameng_war_exploded/WEB-INF/lib/commons-codec-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/dameng_war_exploded/WEB-INF/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/dameng_war_exploded/WEB-INF/lib/Dm8JdbcDriver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/dameng_war_exploded/WEB-INF/lib/dmetl-common-api-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/dameng_war_exploded/WEB-INF/lib/dmetl-rest-client-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/dameng_war_exploded/WEB-INF/lib/httpclient-4.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/dameng_war_exploded/WEB-INF/lib/httpcore-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/dameng_war_exploded/WEB-INF/lib/httpmime-4.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/dameng_war_exploded/WEB-INF/lib/mysql-connector-j-8.0.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/dameng_war_exploded/WEB-INF/lib/protobuf-java-3.19.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
